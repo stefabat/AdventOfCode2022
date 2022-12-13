@@ -1,5 +1,5 @@
 
-with open('input_day1.txt') as f:
+with open('input.txt') as f:
     lines = f.readlines()
 
 maxCalories = 0
